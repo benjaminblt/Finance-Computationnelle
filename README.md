@@ -44,7 +44,6 @@ L’objectif est de transformer des historiques de prix en décisions d’invest
 - [Limites](#limites)
 - [Pistes d’amélioration](#pistes-damélioration)
 - [Auteurs](#auteurs)
-- [Avertissement](#avertissement)
 
 ---
 
